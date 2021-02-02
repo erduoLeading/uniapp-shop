@@ -1,0 +1,1 @@
+<view hidden="{{!(list.length==0)}}" class="loading"><text>loading....</text></view>
